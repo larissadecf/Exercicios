@@ -1,6 +1,6 @@
 package figuras;
 
-public class Quadrado {
+public class Quadrado extends Figura {
     private double lado;
 
 public Quadrado(double lado) {

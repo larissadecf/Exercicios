@@ -1,6 +1,6 @@
 package figuras;
 
-public class Losango {
+public class Losango extends Figura{
 	
 	private double base,altura;
 

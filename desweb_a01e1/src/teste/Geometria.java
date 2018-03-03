@@ -6,6 +6,7 @@ import figuras.Retangulo;
 import figuras.Triangulo;
 
 public class Geometria {
+	
 
 	public static void main(String[] args) {
 		
