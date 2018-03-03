@@ -1,6 +1,6 @@
 package figuras;
 
-public class Retangulo extends Figura {
+public class Retangulo extends Figura implements Diagonal {
 	
 	private double ladoMaior,ladoMenor;
 
